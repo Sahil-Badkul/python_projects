@@ -66,7 +66,4 @@ This is just the MVP (Minimum Viable Product). Future enhancements could include
 - `ImageSequence` (GIF handling)
 - `Threading` & `time` for scheduling
 
----
-
-## 🏗️ Folder Structure
 
